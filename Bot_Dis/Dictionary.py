@@ -15,10 +15,10 @@ Message = [
     "5. Вопросы"
 ]
 
-msg1 = open('git.txt', 'r')
+msg1 = open('dictionary/git.txt', 'r')
 
 msg3 = "Прикрепите задание"
 
 msg4 = "Задания для начинания в разработке на c++"
 
-msg5 = open('answer.txt', 'r')
+msg5 = open('dictionary/answer.txt', 'r')
