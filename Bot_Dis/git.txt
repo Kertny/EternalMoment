@@ -1,0 +1,15 @@
+(Подключение к репазиторию)
+git clone https://github.com/Kertny/EternalMoment
+git config —global user.name "Ник"
+git config —global user.email "Твоймайл@mail.ru"
+
+git checkout Ник (Или git checkout -b Свой ник или как хочешь назвать ветку)
+git add . (Или Файл, который нужно закомитить)
+git commit -m "Текст коммита"
+git push
+(Основные команды)
+git add (файл или .)
+git commit -m 'Текст комита'
+git push
+(Получение из репазитория)
+git pull
